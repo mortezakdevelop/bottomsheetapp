@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/offlineFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_online_prediction_24"
+        android:title="offline"/>
+
+    <item
+        android:id="@+id/onlineFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_offline_bolt_24"
+        android:title="online"/>
+
+     <item
+        android:id="@+id/settingFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="setting"/>
+
+
+</menu>

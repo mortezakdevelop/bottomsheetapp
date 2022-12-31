@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TigetProjectInHome</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">سلام فرگمنت خالی</string>
+    <string name="doe" />
+    <string name="john" />
+    <string name="userId" />
+    <string name="hello_this_app_is_for_test">سلام این پروژه برای تست است</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/offlineFragment">
+
+    <fragment
+        android:id="@+id/offlineFragment"
+        android:name="com.example.tigetprojectinhome.fragments.OfflineFragment"
+        android:label="fragment_offline"
+        tools:layout="@layout/fragment_offline" />
+    <fragment
+        android:id="@+id/onlineFragment"
+        android:name="com.example.tigetprojectinhome.fragments.OfflinePageFragment"
+        android:label="fragment_online"
+        tools:layout="@layout/fragment_online" />
+    <fragment
+        android:id="@+id/settingFragment"
+        android:name="com.example.tigetprojectinhome.fragments.SettingFragment"
+        android:label="fragment_setting"
+        tools:layout="@layout/fragment_setting" />
+</navigation>
